@@ -17,7 +17,7 @@ to easily choose wich modpack you're going to use and just start your game.
 - copy the .minecraft/mods dir location and paste into into the app
 - (its probably gonna close, i've not solved this bug, but the app will work if you open it again)
 - tha app is ready and good to go, import your modpacks into the craftmanager and leave it to do the rest for you
-## this app is meant for you to quickly ch0ose wich modpack (from the ones you already imported) you're goingo to play
+## this app is meant for you to quickly choose wich modpack (from the ones you already imported) you're goingo to play
 it will move files into the correct locations automatically, I was planning to add an graphical interface using electron.js
 but i'm not the biggest fan of html and css, so, i just stopped working on it for now, maybe in the future i will start 
 working on it again.
